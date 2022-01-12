@@ -1,0 +1,11 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    password: root
+    username: root
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:3307/db_fornecedor?createDatabaseIfNotExist=true&serverTimezone=UTC
+  jpa:
+    hibernate:
+      ddl-auto: create
