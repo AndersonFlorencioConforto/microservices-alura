@@ -3208,3 +3208,731 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2022-01-13 19:49:00,874 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-01-13 19:49:00,874 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2022-01-13 19:49:00,874 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:07:53,523 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/Greenwich.SR1/spring-cloud-dependencies-Greenwich.SR1.pom
+2022-01-13 20:07:53,803 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/Greenwich.SR1/spring-cloud-dependencies-Greenwich.SR1.pom
+2022-01-13 20:07:53,947 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.3.RELEASE/spring-cloud-dependencies-parent-2.1.3.RELEASE.pom
+2022-01-13 20:07:54,111 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.3.RELEASE/spring-cloud-dependencies-parent-2.1.3.RELEASE.pom
+2022-01-13 20:07:54,259 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-dependencies/2.1.1.RELEASE/spring-cloud-commons-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:54,416 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-dependencies/2.1.1.RELEASE/spring-cloud-commons-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:54,563 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-dependencies/2.1.1.RELEASE/spring-cloud-netflix-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:54,740 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-dependencies/2.1.1.RELEASE/spring-cloud-netflix-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:54,890 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-stream-dependencies/Fishtown.SR2/spring-cloud-stream-dependencies-Fishtown.SR2.pom
+2022-01-13 20:07:55,051 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-stream-dependencies/Fishtown.SR2/spring-cloud-stream-dependencies-Fishtown.SR2.pom
+2022-01-13 20:07:55,199 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-dependencies/2.1.1.RELEASE/spring-cloud-task-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:55,356 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-task-dependencies/2.1.1.RELEASE/spring-cloud-task-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:55,508 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-dependencies/2.1.1.RELEASE/spring-cloud-config-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:55,664 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-dependencies/2.1.1.RELEASE/spring-cloud-config-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:55,807 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-function-dependencies/2.0.1.RELEASE/spring-cloud-function-dependencies-2.0.1.RELEASE.pom
+2022-01-13 20:07:55,965 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-function-dependencies/2.0.1.RELEASE/spring-cloud-function-dependencies-2.0.1.RELEASE.pom
+2022-01-13 20:07:56,112 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.2.RELEASE/spring-cloud-dependencies-parent-2.1.2.RELEASE.pom
+2022-01-13 20:07:56,279 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.1.2.RELEASE/spring-cloud-dependencies-parent-2.1.2.RELEASE.pom
+2022-01-13 20:07:56,427 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-dependencies/2.1.1.RELEASE/spring-cloud-gateway-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:56,585 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gateway-dependencies/2.1.1.RELEASE/spring-cloud-gateway-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:56,736 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-consul-dependencies/2.1.1.RELEASE/spring-cloud-consul-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:56,893 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-consul-dependencies/2.1.1.RELEASE/spring-cloud-consul-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:57,041 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.1.1.RELEASE/spring-cloud-sleuth-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:57,197 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-sleuth-dependencies/2.1.1.RELEASE/spring-cloud-sleuth-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:57,344 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-dependencies/2.1.1.RELEASE/spring-cloud-vault-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:57,502 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-vault-dependencies/2.1.1.RELEASE/spring-cloud-vault-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:57,650 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.1.1.RELEASE/spring-cloud-zookeeper-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:57,812 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-zookeeper-dependencies/2.1.1.RELEASE/spring-cloud-zookeeper-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:57,961 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-security-dependencies/2.1.2.RELEASE/spring-cloud-security-dependencies-2.1.2.RELEASE.pom
+2022-01-13 20:07:58,118 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-security-dependencies/2.1.2.RELEASE/spring-cloud-security-dependencies-2.1.2.RELEASE.pom
+2022-01-13 20:07:58,267 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.1.1.RELEASE/spring-cloud-cloudfoundry-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:58,423 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-cloudfoundry-dependencies/2.1.1.RELEASE/spring-cloud-cloudfoundry-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:58,588 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-bus-dependencies/2.1.1.RELEASE/spring-cloud-bus-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:58,744 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-bus-dependencies/2.1.1.RELEASE/spring-cloud-bus-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:58,892 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-contract-dependencies/2.1.1.RELEASE/spring-cloud-contract-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:59,053 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-contract-dependencies/2.1.1.RELEASE/spring-cloud-contract-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:59,201 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-aws-dependencies/2.1.1.RELEASE/spring-cloud-aws-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:59,366 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-aws-dependencies/2.1.1.RELEASE/spring-cloud-aws-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:59,541 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.1.1.RELEASE/spring-cloud-openfeign-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:59,699 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-openfeign-dependencies/2.1.1.RELEASE/spring-cloud-openfeign-dependencies-2.1.1.RELEASE.pom
+2022-01-13 20:07:59,847 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.0.1.RELEASE/spring-cloud-kubernetes-dependencies-1.0.1.RELEASE.pom
+2022-01-13 20:08:00,011 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-kubernetes-dependencies/1.0.1.RELEASE/spring-cloud-kubernetes-dependencies-1.0.1.RELEASE.pom
+2022-01-13 20:08:00,160 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/4.1.0/kubernetes-client-bom-4.1.0.pom
+2022-01-13 20:08:00,314 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/fabric8/kubernetes-client-bom/4.1.0/kubernetes-client-bom-4.1.0.pom
+2022-01-13 20:08:00,466 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gcp-dependencies/1.1.1.RELEASE/spring-cloud-gcp-dependencies-1.1.1.RELEASE.pom
+2022-01-13 20:08:00,629 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-gcp-dependencies/1.1.1.RELEASE/spring-cloud-gcp-dependencies-1.1.1.RELEASE.pom
+2022-01-13 20:08:01,605 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom
+2022-01-13 20:08:02,261 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom
+2022-01-13 20:08:02,405 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom
+2022-01-13 20:08:02,707 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom
+2022-01-13 20:08:02,839 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/libs-milestone-local/com/google/api/gax-bom/1.35.1/gax-bom-1.35.1.pom
+2022-01-13 20:08:02,988 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.spring.io/release/com/google/api/gax-bom/1.35.1/gax-bom-1.35.1.pom
+2022-01-13 20:08:03,135 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/api/gax-bom/1.35.1/gax-bom-1.35.1.pom
+2022-01-13 20:08:03,289 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/api/gax-bom/1.35.1/gax-bom-1.35.1.pom
+2022-01-13 20:08:04,359 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.config:config-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\config-server\pom.xml.
+2022-01-13 20:08:05,115 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:08:06,917 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.pom
+2022-01-13 20:08:07,080 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.pom
+2022-01-13 20:08:07,225 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix/2.1.1.RELEASE/spring-cloud-starter-netflix-2.1.1.RELEASE.pom
+2022-01-13 20:08:07,379 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix/2.1.1.RELEASE/spring-cloud-starter-netflix-2.1.1.RELEASE.pom
+2022-01-13 20:08:07,532 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix/2.1.1.RELEASE/spring-cloud-netflix-2.1.1.RELEASE.pom
+2022-01-13 20:08:07,687 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix/2.1.1.RELEASE/spring-cloud-netflix-2.1.1.RELEASE.pom
+2022-01-13 20:08:07,845 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/2.1.3.RELEASE/spring-cloud-build-2.1.3.RELEASE.pom
+2022-01-13 20:08:08,019 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build/2.1.3.RELEASE/spring-cloud-build-2.1.3.RELEASE.pom
+2022-01-13 20:08:08,178 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-contract-dependencies/2.0.2.RELEASE/spring-cloud-contract-dependencies-2.0.2.RELEASE.pom
+2022-01-13 20:08:08,333 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-contract-dependencies/2.0.2.RELEASE/spring-cloud-contract-dependencies-2.0.2.RELEASE.pom
+2022-01-13 20:08:08,480 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.0.4.RELEASE/spring-cloud-dependencies-parent-2.0.4.RELEASE.pom
+2022-01-13 20:08:08,634 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies-parent/2.0.4.RELEASE/spring-cloud-dependencies-parent-2.0.4.RELEASE.pom
+2022-01-13 20:08:08,784 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build-dependencies/2.1.3.RELEASE/spring-cloud-build-dependencies-2.1.3.RELEASE.pom
+2022-01-13 20:08:08,937 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-build-dependencies/2.1.3.RELEASE/spring-cloud-build-dependencies-2.1.3.RELEASE.pom
+2022-01-13 20:08:09,095 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.1.3.RELEASE/spring-boot-dependencies-2.1.3.RELEASE.pom
+2022-01-13 20:08:09,520 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-dependencies/2.1.3.RELEASE/spring-boot-dependencies-2.1.3.RELEASE.pom
+2022-01-13 20:08:09,671 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.33.Final/netty-bom-4.1.33.Final.pom
+2022-01-13 20:08:09,830 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-bom/4.1.33.Final/netty-bom-4.1.33.Final.pom
+2022-01-13 20:08:09,977 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Californium-SR5/reactor-bom-Californium-SR5.pom
+2022-01-13 20:08:10,132 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/projectreactor/reactor-bom/Californium-SR5/reactor-bom-Californium-SR5.pom
+2022-01-13 20:08:10,285 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.14.v20181114/jetty-bom-9.4.14.v20181114.pom
+2022-01-13 20:08:10,547 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/eclipse/jetty/jetty-bom/9.4.14.v20181114/jetty-bom-9.4.14.v20181114.pom
+2022-01-13 20:08:10,694 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.1.5.RELEASE/spring-framework-bom-5.1.5.RELEASE.pom
+2022-01-13 20:08:10,848 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/spring-framework-bom/5.1.5.RELEASE/spring-framework-bom-5.1.5.RELEASE.pom
+2022-01-13 20:08:10,993 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Lovelace-SR5/spring-data-releasetrain-Lovelace-SR5.pom
+2022-01-13 20:08:11,146 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/spring-data-releasetrain/Lovelace-SR5/spring-data-releasetrain-Lovelace-SR5.pom
+2022-01-13 20:08:11,296 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.1.5.RELEASE/spring-data-build-2.1.5.RELEASE.pom
+2022-01-13 20:08:11,450 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/data/build/spring-data-build/2.1.5.RELEASE/spring-data-build-2.1.5.RELEASE.pom
+2022-01-13 20:08:11,599 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.1.3.RELEASE/spring-integration-bom-5.1.3.RELEASE.pom
+2022-01-13 20:08:11,772 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/integration/spring-integration-bom/5.1.3.RELEASE/spring-integration-bom-5.1.3.RELEASE.pom
+2022-01-13 20:08:11,919 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.1.4.RELEASE/spring-security-bom-5.1.4.RELEASE.pom
+2022-01-13 20:08:12,071 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/security/spring-security-bom/5.1.4.RELEASE/spring-security-bom-5.1.4.RELEASE.pom
+2022-01-13 20:08:12,219 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Bean-SR3/spring-session-bom-Bean-SR3.pom
+2022-01-13 20:08:12,374 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/session/spring-session-bom/Bean-SR3/spring-session-bom-Bean-SR3.pom
+2022-01-13 20:08:12,519 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.pom
+2022-01-13 20:08:12,675 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.pom
+2022-01-13 20:08:12,827 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-parent/2.1.1.RELEASE/spring-cloud-commons-parent-2.1.1.RELEASE.pom
+2022-01-13 20:08:12,982 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons-parent/2.1.1.RELEASE/spring-cloud-commons-parent-2.1.1.RELEASE.pom
+2022-01-13 20:08:13,130 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE.pom
+2022-01-13 20:08:13,284 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE.pom
+2022-01-13 20:08:13,451 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE.pom
+2022-01-13 20:08:13,604 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE.pom
+2022-01-13 20:08:13,794 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.pom
+2022-01-13 20:08:13,948 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.pom
+2022-01-13 20:08:14,096 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.pom
+2022-01-13 20:08:14,254 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.pom
+2022-01-13 20:08:14,402 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.pom
+2022-01-13 20:08:14,557 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.pom
+2022-01-13 20:08:14,887 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.pom
+2022-01-13 20:08:15,040 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.pom
+2022-01-13 20:08:15,200 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.10/xstream-parent-1.4.10.pom
+2022-01-13 20:08:15,354 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream-parent/1.4.10/xstream-parent-1.4.10.pom
+2022-01-13 20:08:15,603 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/vlsi/compactmap/compactmap/1.2.1/compactmap-1.2.1.pom
+2022-01-13 20:08:15,758 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/vlsi/compactmap/compactmap/1.2.1/compactmap-1.2.1.pom
+2022-01-13 20:08:15,922 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/vlsi/compactmap/parent/1.2.1/parent-1.2.1.pom
+2022-01-13 20:08:16,087 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/vlsi/compactmap/parent/1.2.1/parent-1.2.1.pom
+2022-01-13 20:08:16,238 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2.pom
+2022-01-13 20:08:16,406 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2.pom
+2022-01-13 20:08:16,562 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-parent/0.2/dexx-parent-0.2.pom
+2022-01-13 20:08:16,719 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-parent/0.2/dexx-parent-0.2.pom
+2022-01-13 20:08:16,878 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8.pom
+2022-01-13 20:08:16,932 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2.pom
+2022-01-13 20:08:17,060 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8.pom
+2022-01-13 20:08:17,208 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.pom
+2022-01-13 20:08:17,229 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2.pom
+2022-01-13 20:08:17,365 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.pom
+2022-01-13 20:08:17,383 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.pom
+2022-01-13 20:08:17,517 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.pom
+2022-01-13 20:08:17,537 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.pom
+2022-01-13 20:08:17,673 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.pom
+2022-01-13 20:08:17,714 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.pom
+2022-01-13 20:08:17,838 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.pom
+2022-01-13 20:08:17,881 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.pom
+2022-01-13 20:08:17,996 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,049 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,152 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,246 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,321 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,403 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,471 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,567 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,644 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,734 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,815 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,897 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.pom
+2022-01-13 20:08:18,983 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.pom
+2022-01-13 20:08:19,058 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.pom
+2022-01-13 20:08:19,229 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.pom
+2022-01-13 20:08:19,577 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.1.1.RELEASE/spring-cloud-starter-config-2.1.1.RELEASE.pom
+2022-01-13 20:08:19,592 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.1.1.RELEASE/spring-cloud-starter-config-2.1.1.RELEASE.pom
+2022-01-13 20:08:19,752 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.1.1.RELEASE/spring-cloud-starter-config-2.1.1.RELEASE.pom
+2022-01-13 20:08:19,764 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.1.1.RELEASE/spring-cloud-starter-config-2.1.1.RELEASE.pom
+2022-01-13 20:08:19,903 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config/2.1.1.RELEASE/spring-cloud-config-2.1.1.RELEASE.pom
+2022-01-13 20:08:19,926 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config/2.1.1.RELEASE/spring-cloud-config-2.1.1.RELEASE.pom
+2022-01-13 20:08:20,070 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config/2.1.1.RELEASE/spring-cloud-config-2.1.1.RELEASE.pom
+2022-01-13 20:08:20,089 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config/2.1.1.RELEASE/spring-cloud-config-2.1.1.RELEASE.pom
+2022-01-13 20:08:20,218 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-client/2.1.1.RELEASE/spring-cloud-config-client-2.1.1.RELEASE.pom
+2022-01-13 20:08:20,243 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-client/2.1.1.RELEASE/spring-cloud-config-client-2.1.1.RELEASE.pom
+2022-01-13 20:08:20,383 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-client/2.1.1.RELEASE/spring-cloud-config-client-2.1.1.RELEASE.pom
+2022-01-13 20:08:20,410 [Worker-20: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-client/2.1.1.RELEASE/spring-cloud-config-client-2.1.1.RELEASE.pom
+2022-01-13 20:08:20,679 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE.jar
+2022-01-13 20:08:20,713 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.jar
+2022-01-13 20:08:20,851 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.jar
+2022-01-13 20:08:20,866 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE.jar
+2022-01-13 20:08:20,866 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE.jar
+2022-01-13 20:08:20,866 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:20,866 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.jar
+2022-01-13 20:08:20,943 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,051 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,218 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,218 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,284 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,288 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,378 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,522 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,523 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,644 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,684 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.jar
+2022-01-13 20:08:21,822 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,822 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,824 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,825 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.jar
+2022-01-13 20:08:21,977 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.jar
+2022-01-13 20:08:22,250 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/vlsi/compactmap/compactmap/1.2.1/compactmap-1.2.1.jar
+2022-01-13 20:08:22,365 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:22,479 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE.jar
+2022-01-13 20:08:22,537 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0.jar
+2022-01-13 20:08:22,580 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/vlsi/compactmap/compactmap/1.2.1/compactmap-1.2.1.jar
+2022-01-13 20:08:22,580 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2.jar
+2022-01-13 20:08:22,580 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0.jar
+2022-01-13 20:08:22,631 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:23,151 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8.jar
+2022-01-13 20:08:23,151 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2.jar
+2022-01-13 20:08:23,248 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/vlsi/compactmap/compactmap/1.2.1/compactmap-1.2.1.jar
+2022-01-13 20:08:23,458 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8.jar
+2022-01-13 20:08:23,641 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/vlsi/compactmap/compactmap/1.2.1/compactmap-1.2.1.jar
+2022-01-13 20:08:23,795 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.jar
+2022-01-13 20:08:23,993 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.jar
+2022-01-13 20:08:24,376 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.jar
+2022-01-13 20:08:24,551 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar
+2022-01-13 20:08:24,749 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8.jar
+2022-01-13 20:08:24,880 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2.jar
+2022-01-13 20:08:25,051 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2.jar
+2022-01-13 20:08:25,431 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8.jar
+2022-01-13 20:08:25,431 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar
+2022-01-13 20:08:25,598 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar
+2022-01-13 20:08:25,701 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.jar
+2022-01-13 20:08:25,704 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8.jar
+2022-01-13 20:08:25,919 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.jar
+2022-01-13 20:08:26,255 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.jar
+2022-01-13 20:08:26,255 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.jar
+2022-01-13 20:08:26,542 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.jar
+2022-01-13 20:08:26,603 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.jar
+2022-01-13 20:08:26,622 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar
+2022-01-13 20:08:26,875 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE.jar
+2022-01-13 20:08:27,046 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.jar
+2022-01-13 20:08:27,047 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.jar
+2022-01-13 20:08:27,210 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.jar
+2022-01-13 20:08:27,430 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.jar
+2022-01-13 20:08:27,439 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1.jar
+2022-01-13 20:08:27,510 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.jar
+2022-01-13 20:08:27,716 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar
+2022-01-13 20:08:27,786 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.jar
+2022-01-13 20:08:28,026 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.1.1.RELEASE/spring-cloud-starter-config-2.1.1.RELEASE.jar
+2022-01-13 20:08:28,037 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.jar
+2022-01-13 20:08:28,087 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar
+2022-01-13 20:08:28,093 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE.jar
+2022-01-13 20:08:28,329 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-client/2.1.1.RELEASE/spring-cloud-config-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:28,394 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE.jar
+2022-01-13 20:08:28,463 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE.jar
+2022-01-13 20:08:28,916 [AetherRepositoryConnector-repo.maven.apache.org-1-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.1.1.RELEASE/spring-cloud-starter-config-2.1.1.RELEASE.jar
+2022-01-13 20:08:28,959 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.1.1.RELEASE/spring-cloud-starter-config-2.1.1.RELEASE.jar
+2022-01-13 20:08:29,215 [AetherRepositoryConnector-repo.maven.apache.org-1-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-client/2.1.1.RELEASE/spring-cloud-config-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:29,248 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-client/2.1.1.RELEASE/spring-cloud-config-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:29,854 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.1.1.RELEASE/spring-cloud-starter-config-2.1.1.RELEASE.jar
+2022-01-13 20:08:30,581 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-client/2.1.1.RELEASE/spring-cloud-config-client-2.1.1.RELEASE.jar
+2022-01-13 20:08:30,877 [AetherRepositoryConnector-repo.maven.apache.org-1-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar
+2022-01-13 20:08:31,376 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10.jar
+2022-01-13 20:08:31,392 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0.jar
+2022-01-13 20:08:31,696 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.loja:loja:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\loja\pom.xml.
+2022-01-13 20:08:32,090 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.eureka:eureka-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\eureka-server\pom.xml.
+2022-01-13 20:08:32,213 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0.jar
+2022-01-13 20:08:32,464 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:08:32,823 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.config:config-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\config-server\pom.xml.
+2022-01-13 20:08:37,869 [Worker-51: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fornecedor/src/main/java
+2022-01-13 20:08:37,869 [Worker-51: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fornecedor/src/main/resources
+2022-01-13 20:08:37,880 [Worker-51: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fornecedor/src/main/resources
+2022-01-13 20:08:37,890 [Worker-51: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fornecedor/src/test/java
+2022-01-13 20:08:39,052 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:39,175 [Worker-51: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 46 sec
+2022-01-13 20:08:39,329 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-starter-netflix-eureka-client-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:39,335 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:2.1.1.RELEASE
+2022-01-13 20:08:40,001 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:40,338 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter/2.1.1.RELEASE/spring-cloud-starter-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:40,344 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter:2.1.1.RELEASE
+2022-01-13 20:08:40,994 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:41,155 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:08:41,156 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:08:41,158 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:08:41,158 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:08:41,161 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:08:41,161 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:08:41,161 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\config-server\src\test\resources
+2022-01-13 20:08:41,383 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-context/2.1.1.RELEASE/spring-cloud-context-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:41,389 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-context:2.1.1.RELEASE
+2022-01-13 20:08:41,934 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:42,256 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:08:42,256 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:08:42,256 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:08:42,256 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:08:42,258 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:08:42,258 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:08:42,259 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\eureka-server\src\test\resources
+2022-01-13 20:08:42,381 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-commons/2.1.1.RELEASE/spring-cloud-commons-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:42,388 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-commons:2.1.1.RELEASE
+2022-01-13 20:08:42,697 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:08:42,698 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:08:42,714 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:08:42,723 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:08:42,723 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:08:43,071 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:43,404 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-hystrix/2.1.1.RELEASE/spring-cloud-netflix-hystrix-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:43,409 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-hystrix:2.1.1.RELEASE
+2022-01-13 20:08:43,909 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:08:43,909 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:08:43,909 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:08:43,909 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:08:43,910 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:08:43,910 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:08:43,910 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:08:43,969 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:44,297 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-eureka-client/2.1.1.RELEASE/spring-cloud-netflix-eureka-client-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:44,302 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-client:2.1.1.RELEASE
+2022-01-13 20:08:44,935 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8-sources.jar
+2022-01-13 20:08:45,731 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-client/1.9.8/eureka-client-1.9.8-sources.jar
+2022-01-13 20:08:45,738 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-client:1.9.8
+2022-01-13 20:08:46,353 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0-sources.jar
+2022-01-13 20:08:49,455 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/16.0/guava-16.0-sources.jar
+2022-01-13 20:08:49,459 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:16.0
+2022-01-13 20:08:50,060 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/vlsi/compactmap/compactmap/1.2.1/compactmap-1.2.1-sources.jar
+2022-01-13 20:08:50,368 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/vlsi/compactmap/compactmap/1.2.1/compactmap-1.2.1-sources.jar
+2022-01-13 20:08:50,372 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.vlsi.compactmap:compactmap:1.2.1
+2022-01-13 20:08:50,912 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2-sources.jar
+2022-01-13 20:08:51,258 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/andrewoma/dexx/dexx-collections/0.2/dexx-collections-0.2-sources.jar
+2022-01-13 20:08:51,262 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.andrewoma.dexx:dexx-collections:0.2
+2022-01-13 20:08:51,843 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8-sources.jar
+2022-01-13 20:08:52,337 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/netflix/eureka/eureka-core/1.9.8/eureka-core-1.9.8-sources.jar
+2022-01-13 20:08:52,347 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-core:1.9.8
+2022-01-13 20:08:52,961 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1-sources.jar
+2022-01-13 20:08:54,372 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/woodstox-core-asl/4.4.1/woodstox-core-asl-4.4.1-sources.jar
+2022-01-13 20:08:54,376 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.woodstox:woodstox-core-asl:4.4.1
+2022-01-13 20:08:54,992 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2-sources.jar
+2022-01-13 20:08:55,448 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2-sources.jar
+2022-01-13 20:08:55,452 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.stream:stax-api:1.0-2
+2022-01-13 20:08:56,042 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:56,343 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-archaius/2.1.1.RELEASE/spring-cloud-starter-netflix-archaius-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:56,347 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-archaius:2.1.1.RELEASE
+2022-01-13 20:08:56,908 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:57,238 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-ribbon/2.1.1.RELEASE/spring-cloud-netflix-ribbon-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:57,242 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-ribbon:2.1.1.RELEASE
+2022-01-13 20:08:57,865 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:58,183 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-netflix-archaius/2.1.1.RELEASE/spring-cloud-netflix-archaius-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:58,196 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-archaius:2.1.1.RELEASE
+2022-01-13 20:08:58,813 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:59,165 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-netflix-ribbon/2.1.1.RELEASE/spring-cloud-starter-netflix-ribbon-2.1.1.RELEASE-sources.jar
+2022-01-13 20:08:59,170 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.1.1.RELEASE
+2022-01-13 20:08:59,772 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10-sources.jar
+2022-01-13 20:09:00,971 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/thoughtworks/xstream/xstream/1.4.10/xstream-1.4.10-sources.jar
+2022-01-13 20:09:00,984 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.xstream:xstream:1.4.10
+2022-01-13 20:09:01,542 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.1.1.RELEASE/spring-cloud-starter-config-2.1.1.RELEASE-sources.jar
+2022-01-13 20:09:01,828 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-starter-config/2.1.1.RELEASE/spring-cloud-starter-config-2.1.1.RELEASE-sources.jar
+2022-01-13 20:09:01,834 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-config:2.1.1.RELEASE
+2022-01-13 20:09:02,422 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-client/2.1.1.RELEASE/spring-cloud-config-client-2.1.1.RELEASE-sources.jar
+2022-01-13 20:09:02,716 [Worker-20: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-config-client/2.1.1.RELEASE/spring-cloud-config-client-2.1.1.RELEASE-sources.jar
+2022-01-13 20:09:02,720 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-config-client:2.1.1.RELEASE
+2022-01-13 20:09:02,724 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-eureka-client:2.1.1.RELEASE
+2022-01-13 20:09:02,727 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter:2.1.1.RELEASE
+2022-01-13 20:09:02,730 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-context:2.1.1.RELEASE
+2022-01-13 20:09:02,734 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-commons:2.1.1.RELEASE
+2022-01-13 20:09:02,738 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-hystrix:2.1.1.RELEASE
+2022-01-13 20:09:02,742 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-eureka-client:2.1.1.RELEASE
+2022-01-13 20:09:02,746 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-client:1.9.8
+2022-01-13 20:09:02,750 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:16.0
+2022-01-13 20:09:02,754 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.vlsi.compactmap:compactmap:1.2.1
+2022-01-13 20:09:02,758 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.andrewoma.dexx:dexx-collections:0.2
+2022-01-13 20:09:02,762 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.netflix.eureka:eureka-core:1.9.8
+2022-01-13 20:09:02,766 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.codehaus.woodstox:woodstox-core-asl:4.4.1
+2022-01-13 20:09:02,770 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.stream:stax-api:1.0-2
+2022-01-13 20:09:02,775 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-archaius:2.1.1.RELEASE
+2022-01-13 20:09:02,779 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-ribbon:2.1.1.RELEASE
+2022-01-13 20:09:02,783 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-netflix-archaius:2.1.1.RELEASE
+2022-01-13 20:09:02,787 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-netflix-ribbon:2.1.1.RELEASE
+2022-01-13 20:09:02,791 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.thoughtworks.xstream:xstream:1.4.10
+2022-01-13 20:09:02,794 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-starter-config:2.1.1.RELEASE
+2022-01-13 20:09:02,797 [Worker-20: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.cloud:spring-cloud-config-client:2.1.1.RELEASE
+2022-01-13 20:09:03,641 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:09:03,642 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:09:03,642 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:09:03,643 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:09:03,644 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:09:56,222 [Worker-40: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:09:57,002 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:09:57,002 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:09:57,002 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:09:57,002 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:09:57,004 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:09:57,004 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:09:57,004 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:09:59,547 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:09:59,547 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:09:59,547 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:09:59,556 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:09:59,560 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:09:59,560 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:09:59,560 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:10:25,940 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:10:25,941 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:10:25,941 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:10:25,941 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:10:25,942 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:10:25,942 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:10:25,942 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:10:36,960 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-01-13 20:10:37,822 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.config:config-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\config-server\pom.xml.
+2022-01-13 20:10:38,225 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:10:38,672 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.loja:loja:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\loja\pom.xml.
+2022-01-13 20:10:38,974 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.eureka:eureka-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\eureka-server\pom.xml.
+2022-01-13 20:10:40,419 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fornecedor/src/main/java
+2022-01-13 20:10:40,419 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fornecedor/src/main/resources
+2022-01-13 20:10:40,419 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fornecedor/src/main/resources
+2022-01-13 20:10:40,420 [Worker-51: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fornecedor/src/test/java
+2022-01-13 20:10:41,147 [Worker-51: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-01-13 20:10:41,856 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:10:41,857 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:10:41,858 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:10:41,858 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:10:41,860 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:10:41,860 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:10:41,860 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\config-server\src\test\resources
+2022-01-13 20:10:42,430 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:10:42,430 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:10:42,430 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:10:42,430 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:10:42,432 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:10:42,432 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:10:42,432 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\eureka-server\src\test\resources
+2022-01-13 20:10:43,523 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:10:43,523 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:10:43,523 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:10:43,532 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:10:43,536 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:10:43,536 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:10:43,536 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:10:44,315 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:10:44,315 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:10:44,315 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:10:44,315 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:10:44,316 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:10:44,316 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:10:44,316 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:11:01,002 [Worker-20: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:11:01,752 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:11:01,752 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:11:01,752 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:11:01,753 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:11:01,754 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:11:01,754 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:11:01,754 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:19:10,987 [Worker-62: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:19:11,766 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:19:11,766 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:19:11,766 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:19:11,766 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:19:11,768 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:19:11,768 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:19:11,768 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:19:14,274 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:19:14,274 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:19:14,275 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:19:14,276 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:19:14,280 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:19:14,280 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:19:14,281 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:19:29,204 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:19:46,275 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-01-13 20:19:47,041 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/${spring-cloud.version}/spring-cloud-dependencies-${spring-cloud.version}.pom
+2022-01-13 20:19:47,732 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.config:config-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\config-server\pom.xml.
+2022-01-13 20:19:48,121 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:19:48,418 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.loja:loja:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\loja\pom.xml.
+2022-01-13 20:19:48,745 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.eureka:eureka-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\eureka-server\pom.xml.
+2022-01-13 20:19:50,360 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fornecedor/src/main/resources
+2022-01-13 20:19:50,360 [Worker-64: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fornecedor/src/main/resources
+2022-01-13 20:19:50,989 [Worker-64: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-01-13 20:19:51,580 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:19:51,580 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:19:51,582 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:19:51,582 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:19:51,583 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:19:51,583 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:19:51,584 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\config-server\src\test\resources
+2022-01-13 20:19:52,097 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:19:52,097 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:19:52,097 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:19:52,098 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:19:52,099 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:19:52,099 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:19:52,099 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\eureka-server\src\test\resources
+2022-01-13 20:19:52,640 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:19:52,640 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:19:52,640 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:19:52,640 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:19:52,641 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:19:52,641 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:19:52,641 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:20:32,129 [Worker-65: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/fornecedor/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1069)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1068)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-01-13 20:20:33,098 [Worker-61: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:20:34,107 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:20:34,107 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:20:34,107 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:20:34,116 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:20:34,120 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:20:34,120 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:20:34,120 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:20:44,397 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-01-13 20:20:44,985 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/cloud/spring-cloud-dependencies/${spring-cloud.version}/spring-cloud-dependencies-${spring-cloud.version}.pom
+2022-01-13 20:20:45,688 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.config:config-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\config-server\pom.xml.
+2022-01-13 20:20:46,083 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:20:46,386 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.loja:loja:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\loja\pom.xml.
+2022-01-13 20:20:46,708 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.eureka:eureka-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\eureka-server\pom.xml.
+2022-01-13 20:20:48,134 [Worker-62: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fornecedor/src/main/resources
+2022-01-13 20:20:48,134 [Worker-62: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fornecedor/src/main/resources
+2022-01-13 20:20:48,707 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-01-13 20:20:49,264 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:20:49,264 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:20:49,266 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:20:49,266 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:20:49,267 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:20:49,267 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:20:49,267 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\config-server\src\test\resources
+2022-01-13 20:20:49,787 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:20:49,787 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:20:49,787 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:20:49,787 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:20:49,788 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:20:49,788 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:20:49,788 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\eureka-server\src\test\resources
+2022-01-13 20:20:50,370 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:20:50,370 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:20:50,370 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:20:50,370 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:20:50,371 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:20:50,371 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:20:50,371 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:20:54,731 [Worker-63: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/fornecedor/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1069)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1068)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-01-13 20:20:54,989 [Worker-63: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:21:16,436 [Worker-62: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/fornecedor/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1069)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1068)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:634)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:938)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-01-13 20:21:16,823 [Worker-63: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:21:35,600 [Worker-63: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:21:42,084 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:21:42,084 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:21:42,084 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:21:42,084 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:21:42,085 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:21:42,085 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:21:42,085 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:21:43,090 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:21:43,091 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:21:43,091 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:21:43,105 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:21:43,114 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:21:43,114 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:21:43,114 [Worker-61: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:21:55,316 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-01-13 20:21:57,180 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.config:config-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\config-server\pom.xml.
+2022-01-13 20:21:57,842 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.fornecedor:fornecedor:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\pom.xml.
+2022-01-13 20:21:58,225 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.loja:loja:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\loja\pom.xml.
+2022-01-13 20:21:58,649 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.alura.microservice.eureka:eureka-server:0.0.1-SNAPSHOT @ E:\MicroServiçosAlura\microservices\eureka-server\pom.xml.
+2022-01-13 20:22:02,290 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fornecedor/src/main/java
+2022-01-13 20:22:02,290 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fornecedor/src/main/resources
+2022-01-13 20:22:02,290 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /fornecedor/src/main/resources
+2022-01-13 20:22:02,291 [Worker-66: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /fornecedor/src/test/java
+2022-01-13 20:22:02,979 [Worker-66: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2022-01-13 20:22:03,584 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:22:03,584 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:22:03,586 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:22:03,586 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:22:03,587 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:22:03,587 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:22:03,587 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\config-server\src\test\resources
+2022-01-13 20:22:04,094 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:22:04,094 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:22:04,094 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:22:04,094 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:22:04,095 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:22:04,095 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:22:04,095 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\eureka-server\src\test\resources
+2022-01-13 20:22:04,858 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:22:04,858 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:22:04,858 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:22:04,866 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:22:04,869 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:22:04,870 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:22:04,870 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:22:05,632 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:22:05,632 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:22:05,632 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:22:05,632 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:22:05,633 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:22:05,634 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:22:05,634 [Worker-64: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:27:54,775 [Worker-62: Launching Executing install in E__MicroServiçosAlura_microservices_fornecedor_fornecedor] INFO  o.e.m.i.launch.MavenLaunchDelegate - E:\MicroServiçosAlura\microservices\fornecedor\fornecedor
+2022-01-13 20:27:54,775 [Worker-62: Launching Executing install in E__MicroServiçosAlura_microservices_fornecedor_fornecedor] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -Dstyle.color=always
+2022-01-13 20:28:13,336 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:28:13,336 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:28:13,337 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:28:13,340 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:28:13,345 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:28:13,345 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:28:13,345 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\fornecedor\fornecedor\src\test\resources
+2022-01-13 20:45:13,002 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:45:13,002 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:45:13,003 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:45:13,021 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:45:13,023 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:45:13,023 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:45:13,023 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:46:48,012 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:46:48,012 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:46:48,013 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:46:48,025 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:46:48,027 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:46:48,027 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:46:48,027 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:47:43,224 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:47:43,224 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:47:43,225 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:47:43,231 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:47:43,234 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:47:43,234 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:47:43,234 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:48:08,947 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:48:08,948 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:48:08,948 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:48:08,954 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:48:08,955 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:48:08,955 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:48:08,955 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:48:15,682 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:48:15,682 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:48:15,683 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:48:15,697 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:48:15,698 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:48:15,698 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:48:15,698 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:48:19,538 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:48:19,538 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:48:19,538 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:48:19,556 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:48:19,557 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:48:19,557 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:48:19,557 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:48:52,975 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:48:52,975 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:48:52,976 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:48:52,989 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:48:52,991 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:48:52,991 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:48:52,991 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:49:30,409 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:49:30,409 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:49:30,409 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:49:30,419 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:49:30,421 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:49:30,421 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:49:30,421 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:49:58,964 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:49:58,964 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:49:58,965 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:49:58,976 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:49:58,978 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:49:58,978 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:49:58,978 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:50:12,016 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:50:12,016 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:50:12,017 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:50:12,027 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:50:12,029 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:50:12,029 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:50:12,029 [Worker-89: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:50:22,066 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:50:22,067 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:50:22,067 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:50:22,077 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:50:22,080 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:50:22,080 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:50:22,080 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:51:58,532 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:51:58,532 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:51:58,533 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:51:58,544 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:51:58,546 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:51:58,547 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:51:58,547 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:52:44,944 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:52:44,944 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:52:44,945 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:52:44,957 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:52:44,959 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:52:44,959 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:52:44,959 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:53:06,016 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:53:06,017 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:53:06,017 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:53:06,028 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:53:06,030 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:53:06,030 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:53:06,030 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
+2022-01-13 20:54:02,937 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:54:02,937 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:54:02,938 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-01-13 20:54:02,950 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-01-13 20:54:02,952 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-01-13 20:54:02,952 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-01-13 20:54:02,952 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\MicroServiçosAlura\microservices\loja\src\test\resources
