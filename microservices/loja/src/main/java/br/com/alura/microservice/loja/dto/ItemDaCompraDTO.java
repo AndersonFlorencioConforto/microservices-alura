@@ -21,6 +21,12 @@ public class ItemDaCompraDTO {
 		this.quantidade = quantidade;
 	}
 	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
+	
 	
 	
 

@@ -8,6 +8,16 @@ public class CompraDTO {
 	
 	private EnderecoDTO endereco;
 	
+	private EmailDTO email;
+	
+
+	public EmailDTO getEmail() {
+		return email;
+	}
+
+	public void setEmail(EmailDTO email) {
+		this.email = email;
+	}
 
 	public List<ItemDaCompraDTO> getItens() {
 		return itens;
@@ -25,6 +35,11 @@ public class CompraDTO {
 		this.endereco = endereco;
 	}
 	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
 	
 
 }

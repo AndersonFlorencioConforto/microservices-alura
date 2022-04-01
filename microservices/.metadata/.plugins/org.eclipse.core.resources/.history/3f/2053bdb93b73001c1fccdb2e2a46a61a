@@ -1,9 +1,0 @@
-server:
-  port: 8081
-
-spring.jpa.hibernate.ddl-auto=update
-spring:
-  datasource:
-    password: 
-    username: 
-    url: jdbc:mysql://${MYSQL_HOST:localhost}:3307/fornecedor

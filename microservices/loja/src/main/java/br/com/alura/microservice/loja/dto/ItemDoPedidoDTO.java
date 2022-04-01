@@ -1,4 +1,4 @@
-package br.com.alura.microservice.fornecedor.dto;
+package br.com.alura.microservice.loja.dto;
 
 public class ItemDoPedidoDTO {
 
@@ -21,11 +21,12 @@ public class ItemDoPedidoDTO {
 	public void setQuantidade(int quantidade) {
 		this.quantidade = quantidade;
 	}
-	
-	
+
 	@Override
 	public String toString() {
-		// TODO Auto-generated method stub
-		return super.toString();
+		return "ItemDoPedidoDTO [id=" + id + ", quantidade=" + quantidade + "]";
 	}
+	
+
+	
 }
